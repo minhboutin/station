@@ -1,0 +1,82 @@
+title: Paramètres du site
+
+icon: ⚙️
+
+num: 0
+options:
+  url: false
+  status: false
+  delete: false
+  duplicate: false
+  changeStatus: false
+  changePosition: false
+  changeTitle: true
+
+sections:
+  
+  footer:
+    type: fields
+    fields:
+      footerhealine:
+        label: Footer
+        type: headline
+      textfooter:
+        label: Présentation
+        type: textarea
+        width: 1/2
+      addressfooter:
+        label: Adresse
+        type: textarea
+        width: 1/2
+      linebreak1:
+        type: line
+      mail:
+        label: E-mail
+        type: text
+        maxlength: 30
+        width: 1/4
+      phone:
+        label: Téléphone
+        type: text
+        maxlength: 30
+        width: 1/4
+      linebreak2:
+        type: line
+      facebook:
+        label: Lien Facebook
+        type: url
+        width: 1/4
+      instagram:
+        label: Lien Instagram 
+        type: url
+        width: 1/4
+      youtube:
+        label: Lien Youtube 
+        type: url
+        width: 1/4
+      mixcloud:
+        label: Lien Mixcloud 
+        type: url
+        width: 1/4
+      linebreak3:
+        type: line
+
+  meta:
+    type: fields
+    fields:
+      metaheadline:
+        label: Meta Informations
+        type: headline
+      opengraph:
+        label: Meta Image (Open Graph)
+        type: files
+        multiple: false
+        width: 1/3
+      metattitle:
+        label: Meta Title
+        type: text
+        width: 1/3
+      metadescription:
+        label: Meta Description
+        type: text
+        width: 1/3

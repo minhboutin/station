@@ -1,0 +1,13 @@
+Title: Pages
+
+----
+
+Listtitle: 
+
+----
+
+Listselection:
+
+- stationgdm/pages/restaurant-les-mines
+- stationgdm/pages/aire-de-repos
+- stationgdm/pages/melangee

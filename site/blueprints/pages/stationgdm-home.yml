@@ -1,0 +1,502 @@
+title: Home
+
+icon: ⚫ 
+
+options:
+  url: false
+  status: false
+  delete: false
+  duplicate: false
+  changeStatus: false
+  changePosition: false
+  changeTitle: false
+
+columns: 
+
+  #focus gauche
+  focus:
+    width: 1
+    type: fields
+    fields:
+      focusleftheadline: 
+        label: Focus
+        type: headline
+      focusselection: 
+        label: Séléction du contenu
+        type: pages
+        subpages: true
+        query: site.find('stationgdm').children.listed.find('rendez-vous', 'temps-forts', 'pages', 'journal')
+        max: 4
+        width: 1/2
+      focustags:
+        label: Afficher les Tags/Labels
+        type: toggle
+        text: 
+          - Oui
+          - Non
+        width: 1/4
+      focusdescription:
+        label: Afficher les descriptions
+        type: toggle
+        text: 
+          - Oui
+          - Non
+        width: 1/4
+
+
+  #separator 
+  separator0:
+    width: 1
+    type: fields
+    fields:
+      separator0line:
+        type: line
+
+  #actualités
+  actupart1:
+    width: 1
+    sections:
+      actufields1:
+        type: fields
+        fields:
+          actuheadline:
+            label: Actualités
+            type: headline
+          actuactived:
+            width: 1/3
+            label: Afficher sur la page d'accueil
+            type: toggle
+            text: 
+              - Oui
+              - Non
+          actutitre:
+            width: 1/3
+            label: Titre du block 'Actualités'
+            type: text
+            default: À venir
+            placeholder: Actualités
+            maxlength: 30
+  actupart2:  
+    width: 1
+    sections:
+      actufields2:
+        type: fields
+        fields:
+          autoselection:
+            width: 1/3
+            label: Séléction automatique des contenus
+            type: radio
+            options: 
+              - value: four
+                text : 4 prochains événements
+              - value: eight
+                text : 8 prochains événements
+              - value: week
+                text : Cette semaine
+              - value: month
+                text: Ce mois-ci
+              - value: none
+                text: Désactivée
+          manualselection: 
+            width: 1/3
+            label: Séléction manuelle des contenus
+            type: pages
+            subpages: true
+            query: site.find('stationgdm').children.listed.find('rendez-vous', 'temps-forts', 'pages', 'journal')
+            max: 8
+            help: |
+              Maximum 8 contenus
+              Activée seulement si la séléction automatique est désactivée
+          actuend:
+            type: line
+
+  #discover
+  discover:
+    width: 1
+    sections:
+      discoverfields:
+        type: fields
+        fields:
+          discoverheadline:
+            label: Séléction à découvrir
+            type: headline
+          discoveractivated:
+            width: 1/3
+            label: Afficher sur la page d'accueil
+            type: toggle
+            text: 
+              - Oui
+              - Non
+          discovertitle:
+            width: 1/3
+            label: Titre du block 'À découvrir'
+            type: text
+            default: À venir
+            placeholder: Titre du block 'À découvrir' de la page d'accueil
+            maxlength: 30
+          linebreak:
+            type: line
+
+  #discover block 1
+  discoverblock1:
+    width: 1
+    sections:
+      discoverblock1:
+        label: Block 1
+        type: fields
+        fields:
+          discoverblock1actived:
+            width: 1/3
+            label: Afficher sur la page d'accueil
+            type: toggle
+            text: 
+              - Oui
+              - Non
+          discoverblock1title:
+            width: 1/2
+            label: Block 1 — Titre
+            type: text
+            maxlength: 20
+          discoverblock1image:
+            width: 1/3
+            label: Block 1 — Image 
+            type: files 
+            query: page.images
+            layout: list
+            multiple: false
+          discoverblock1text:
+            width: 1/2
+            label: Block 1 — Texte
+            type: textarea
+            maxlength: 235
+          discoverblock1link:
+            width: 1/3
+            label: Block 1 — Lien
+            type: url
+            placeholder: http://
+            help: Dirige vers une page interne du site ou externe
+          discoverblock1linktarget:
+            width: 1/2
+            label: Block 1 — Ouvrir le lien dans un nouvel onglet
+            type: toggle
+            text: 
+              - Non
+              - Oui
+
+  #separator 
+  separator1:
+    width: 1
+    type: fields
+    fields:
+      separator1line:
+        type: line
+
+  #discover block 2
+  discoverblock2:
+    width: 1
+    sections:
+      discoverblock2:
+        label: Block 2
+        type: fields
+        fields:
+          discoverblock2actived:
+            width: 1/3
+            label: Afficher sur la page d'accueil
+            type: toggle
+            text: 
+              - Oui
+              - Non
+          discoverblock2title:
+            width: 1/2
+            label: Block 2 — Titre
+            type: text
+            maxlength: 20
+          discoverblock2image:
+            width: 1/3
+            label: Block 2 — Image 
+            type: files 
+            query: page.images
+            layout: list
+            multiple: false
+          discoverblock2text:
+            width: 1/2
+            label: Block 2 — Texte
+            type: textarea
+            maxlength: 235
+          discoverblock2link:
+            width: 1/3
+            label: Block 2 — Lien
+            type: url
+            placeholder: http://
+            help: Dirige vers une page interne du site ou externe
+          discoverblock2linktarget:
+            width: 1/2
+            label: Block 2 — Ouvrir le lien dans un nouvel onglet
+            type: toggle
+            text: 
+              - Non
+              - Oui
+
+  #separator 
+  separator2:
+    width: 1
+    type: fields
+    fields:
+      separator2line:
+        type: line
+
+  #discover block 3
+  discoverblock3:
+    width: 1
+    sections:
+      discoverblock3:
+        label: Block 3
+        type: fields
+        fields:
+          discoverblock3actived:
+            width: 1/3
+            label: Afficher sur la page d'accueil
+            type: toggle
+            text: 
+              - Oui
+              - Non
+          discoverblock3title:
+            width: 1/2
+            label: Block 3 — Titre
+            type: text
+            maxlength: 30
+          discoverblock3image:
+            width: 1/3
+            label: Block 3 — Image 
+            type: files 
+            query: page.images
+            layout: list
+            multiple: false
+          discoverblock3text:
+            width: 1/2
+            label: Block 3 — Texte
+            type: textarea
+            maxlength: 235
+          discoverblock3link:
+            width: 1/3
+            label: Block 3 — Lien
+            type: url
+            placeholder: http://
+            help: Dirige vers une page interne du site ou externe
+          discoverblock3linktarget:
+            width: 1/2
+            label: Block 3 — Ouvrir le lien dans un nouvel onglet
+            type: toggle
+            text: 
+              - Non
+              - Oui
+
+  #separator 
+  separator3:
+    width: 1
+    type: fields
+    fields:
+      separator3line:
+        type: line
+
+  #discover block 4
+  discoverblock4:
+    width: 1
+    sections:
+      discoverblock4:
+        label: Block 4
+        type: fields
+        fields:
+          discoverblock4actived:
+            width: 1/3
+            label: Afficher sur la page d'accueil
+            type: toggle
+            text: 
+              - Oui
+              - Non
+          discoverblock4title:
+            width: 1/2
+            label: Block 4 — Titre
+            type: text
+            maxlength: 30
+          discoverblock4image:
+            width: 1/3
+            label: Block 4 — Image 
+            type: files 
+            query: page.images
+            layout: list
+            multiple: false
+          discoverblock4text:
+            width: 1/2
+            label: Block 4 — Texte
+            type: textarea
+            maxlength: 235
+          discoverblock4link:
+            width: 1/3
+            label: Block 4 — Lien
+            type: url
+            placeholder: http://
+            help: Dirige vers une page interne du site ou externe
+          discoverblock4linktarget:
+            width: 1/2
+            label: Block 4 — Ouvrir le lien dans un nouvel onglet
+            type: toggle
+            text: 
+              - Non
+              - Oui
+
+  #separator 
+  separator4:
+    width: 1
+    type: fields
+    fields:
+      separator4line:
+        type: line
+
+  #discover block 5
+  discoverblock5:
+    width: 1
+    sections:
+      discoverblock5:
+        label: Block 5
+        type: fields
+        fields:
+          discoverblock5actived:
+            width: 1/3
+            label: Afficher sur la page d'accueil
+            type: toggle
+            text: 
+              - Oui
+              - Non
+          discoverblock5title:
+            width: 1/2
+            label: Block 5 — Titre
+            type: text
+            maxlength: 30
+          discoverblock5image:
+            width: 1/3
+            label: Block 5 — Image 
+            type: files 
+            query: page.images
+            layout: list
+            multiple: false
+          discoverblock5text:
+            width: 1/2
+            label: Block 5 — Texte
+            type: textarea
+            maxlength: 235
+          discoverblock5link:
+            width: 1/3
+            label: Block 5 — Lien
+            type: url
+            placeholder: http://
+            help: Dirige vers une page interne du site ou externe
+          discoverblock5linktarget:
+            width: 1/2
+            label: Block 5 — Ouvrir le lien dans un nouvel onglet
+            type: toggle
+            text: 
+              - Non
+              - Oui
+
+  #separator 
+  separator5:
+    width: 1
+    type: fields
+    fields:
+      separator5line:
+        type: line
+  
+  #discover block 6
+  discoverblock6:
+    width: 1
+    sections:
+      discoverblock6:
+        label: Block 6
+        type: fields
+        fields:
+          discoverblock6actived:
+            width: 1/3
+            label: Afficher sur la page d'accueil
+            type: toggle
+            text: 
+              - Oui
+              - Non
+          discoverblock6title:
+            width: 1/2
+            label: Block 6 — Titre
+            type: text
+            maxlength: 30
+          discoverblock6image:
+            width: 1/3
+            label: Block 6 — Image 
+            type: files 
+            query: page.images
+            layout: list
+            multiple: false
+          discoverblock6text:
+            width: 1/2
+            label: Block 6 — Texte
+            type: textarea
+            maxlength: 235
+          discoverblock6link:
+            width: 1/3
+            label: Block 6 — Lien
+            type: url
+            placeholder: http://
+            help: Dirige vers une page interne du site ou externe
+          discoverblock6linktarget:
+            width: 1/2
+            label: Block 6 — Ouvrir le lien dans un nouvel onglet
+            type: toggle
+            text: 
+              - Non
+              - Oui
+
+  #separator 
+  separator6:
+    width: 1
+    type: fields
+    fields:
+      separator6line:
+        type: line
+
+  #journal
+  journal:
+    width: 1
+    type: fields
+    fields:
+      journalheadline:
+        width: 1
+        label: Journal
+        type: headline
+      journalactived:
+        width: 1/3
+        label: Afficher sur la page d'accueil
+        type: toggle
+        text:
+          - Oui
+          - Non
+      journaltitle:
+        width: 2/3
+        label: Titre du block 'Journal'
+        type: text
+        default: Journal
+        placeholder: Journal
+        maxlength: 30
+      journalauthor:
+        width: 1/3
+        label: Afficher les auteur.rices
+        type: toggle
+        text:
+          - Oui
+          - Non
+      journaltags:
+        width: 1/3
+        label: Afficher les Thèmes et les Tags
+        type: toggle
+        text:
+          - Oui
+          - Non
+      linebreak2:
+        type: line

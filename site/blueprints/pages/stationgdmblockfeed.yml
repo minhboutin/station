@@ -1,0 +1,73 @@
+title: Block Feed
+
+sections:
+  list:
+    type: fields
+    fields:
+      feedtitle:
+        width: 1/2
+        label: Titre du feed
+        type: text
+      linebreak1:
+        type: line
+      feeddate:
+        label: Afficher les dates
+        type: toggle
+        text: 
+          - Non
+          - Oui
+        width: 1/3
+      feedlabels:
+        label: Afficher les Labels
+        type: toggle
+        text: 
+          - Non
+          - Oui
+        width: 1/3
+      feedtags:
+        label: Afficher les Tags
+        type: toggle
+        text: 
+          - Non
+          - Oui
+        width: 1/3
+      linebreak3:
+        type: line
+      feedautoselection:
+        width: 1/2
+        label: |
+          Séléction automatique des contenus
+        type: radio
+        default: label
+        options: 
+          - value: filter
+            text : Par Label(s) et/ou Tag(s)
+          - value: none
+            text: Désactivée
+      feedlabelfilter:
+        width: 1/4
+        label: |
+          Filtrer par les Labels :
+        type: multiselect
+        options: query
+        query: site.children.find('stationgdm').children.find('labels-tags').labels.split
+      feedtagfilter:
+        width: 1/4
+        label: |
+          Filtrer par les Tags :
+        type: multiselect
+        options: query
+        query: site.children.find('stationgdm').children.find('labels-tags').tags.split
+      linebreak2:
+        type: line
+      feedmanualselection: 
+        width: 1/2
+        label: Séléction manuelle des contenus
+        type: pages
+        layout: list
+        subpages: true
+        query: site.find('stationgdm').children.listed.find('rendez-vous', 'temps-forts', 'pages')
+        max: 16
+        help: |
+          Maximum 16 contenus
+          Activée seulement si la séléction automatique est désactivée

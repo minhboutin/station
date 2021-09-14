@@ -1,0 +1,11 @@
+Title: Gamut
+
+----
+
+Blockimage:
+
+- collectif-gamut.jpeg
+
+----
+
+Contents: [{"content":{"level":"h2","text":"Collectif GAMUT"},"id":"46c28c78-c736-4b33-99b7-e946307c8dd8","isHidden":false,"type":"heading"},{"content":{"text":"<p>GAMUT est un collectif de mode. N\u00e9 de la volont\u00e9 d\u2019\u00e9tablir un mod\u00e8le horizontal, GAMUT est anim\u00e9 par cinq designers et une directrice visuelle. Bas\u00e9 \u00e0 Paris, accompagn\u00e9 par des musicien\u00b7ne\u00b7s, vid\u00e9astes, graphistes, chor\u00e9graphes, stylistes, sc\u00e9nographes, (\u2026), GAMUT choisit de maintenir ses liens avec d\u2019autres disciplines. Con\u00e7u comme un laboratoire, il fonctionne sans chef, et prend vie \u00e0 travers une recherche contributive, ouverte et collective.<br>Chosen Family est un espace queer-friendly, bienveillant et inclusif.<\/p>"},"id":"fee3524b-744a-49cf-a68c-a558a8693bff","isHidden":false,"type":"text"},{"content":{"link1":"https:\/\/www.collectifgamut.com","linktext1":"Site","link2":"https:\/\/www.instagram.com\/collectif_gamut\/","linktext2":"Instagram","link3":"","linktext3":"","link4":"","linktext4":"","link5":"","linktext5":"","link6":"","linktext6":""},"id":"97c71fef-44cc-4e3b-8481-8a698cfa685f","isHidden":false,"type":"button"}]

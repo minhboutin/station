@@ -1,0 +1,5 @@
+Title: Newsletter
+
+----
+
+Contents: [{"content":{"text":"<p>Pour rester inform\u00e9.e de l'actualit\u00e9 de <strong>La Station \u2014 Gare des mines<\/strong>, inscrivez-vous \u00e0 notre newsletter.<\/p>"},"id":"631efd2f-e31c-4b50-82c8-5cf0741c5cba","isHidden":false,"type":"text"},{"content":{"code":"<div class=\"newsletter\">\n<form name=\"subscribe-newsletter\" id=\"subscribe-newsletter\" method=\"post\" autocomplete=\"off\">\n<input id=\"newsletter-email\" type=\"text\" name=\"newsletter-email\" value=\"\" class=\"medium bold cap\" placeholder=\"Entrez votre e-mail\" autocomplete=\"off\" required><input id=\"subscribe-button\" type=\"submit\" value=\"\">\n<\/form>\n<div id=\"subscribe-error\" class=\"small cap\">Erreur : l'adresse e-mail entr\u00e9e n'est pas valide.<\/div>\n<div id=\"subscribe-confirmed\" class=\"medimul bold cap\">Merci ! Vous \u00eates maintenant inscrit.e \u00e0 notre newsletter.<\/div>\n<\/div>","language":"text"},"id":"71c47928-45e9-4d1b-98a3-53204d0e8dca","isHidden":false,"type":"code"}]

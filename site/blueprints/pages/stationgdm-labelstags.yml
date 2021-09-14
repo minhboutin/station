@@ -1,0 +1,45 @@
+title: Labels & Tags
+
+icon: 🏷️
+
+options:
+  url: false
+  status: false
+  delete: false
+  duplicate: false
+  changeStatus: false
+  changePosition: false
+  changeTitle: false
+
+sections:
+  labelstags:
+    type: fields
+    fields:
+      labels:
+        width: 1/2
+        label: Labels
+        type: tags
+        layout: list
+        help: |
+          ATTENTION : À ÉCRIRE EN MINUSCULE
+      tags:
+        width: 1/2
+        label: Tags
+        type: tags
+        layout: list
+        help: |
+          À ÉCRIRE EN MINUSCULE
+      themes:
+        width: 1/2
+        label: Thèmes du journal
+        type: tags
+        layout: list
+        help: |
+          À ÉCRIRE EN MINUSCULE
+      tagsjournal:
+        width: 1/2
+        label: Tags du journal
+        type: tags
+        layout: list
+        help: |
+          À ÉCRIRE EN MINUSCULE

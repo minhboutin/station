@@ -1,0 +1,39 @@
+Title: Musique & spectacles : Studio musique
+
+----
+
+Maintitle: Studio musique
+
+----
+
+Archived: false
+
+----
+
+Startdate: 
+
+----
+
+Enddate: 
+
+----
+
+Mainlabels: 
+
+----
+
+Maintags: 
+
+----
+
+Description: Aliquam varius, libero sed bibendum posuere, lorem urna hendrerit justo, sit amet imperdiet lorem quam molestie lectus. Morbi aliquet viverra libero ultricies varius.
+
+----
+
+Posterimage:
+
+- trame-03.png
+
+----
+
+Postervideo: 

@@ -1,0 +1,39 @@
+Title: Boukan Records & Friends
+
+----
+
+Maintitle: Boukan Records & Friends
+
+----
+
+Archived: false
+
+----
+
+Startdate: 2021-08-21
+
+----
+
+Enddate: 
+
+----
+
+Mainlabels: 
+
+----
+
+Maintags: concert
+
+----
+
+Description: 
+
+----
+
+Posterimage:
+
+- boukan-records-and-friends-banniere.jpeg
+
+----
+
+Postervideo: 

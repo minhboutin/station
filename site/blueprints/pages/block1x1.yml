@@ -1,0 +1,86 @@
+title: Block 1 colonne
+
+sections:
+  contentsfields:
+    type: fields
+    fields:
+      contents:
+        label: Contenus
+        type: blocks
+        width: 2/3
+        fieldsets:
+          text:
+            label: Textes
+            type: group
+            fieldsets:
+              - heading
+              - text
+              button:
+                name: Links
+                icon: url
+                fields:
+                  link1:
+                    label: Lien 1 — Url
+                    type: url
+                  linktext1:
+                    label: Lien 1 — Texte
+                    type: text
+                    placeholder: Facebook, Instagram, Site...
+                  link2:
+                    label: Lien 2 — Url
+                    type: url
+                  linktext2:
+                    label: Lien 2 — Texte
+                    type: text
+                    placeholder: Facebook, Instagram, Site...
+                  link3:
+                    label: Lien 3 — Url
+                    type: url
+                  linktext3:
+                    label: Lien 3 — Texte
+                    type: text
+                    placeholder: Facebook, Instagram, Site...
+                  link4:
+                    label: Lien 4 — Url
+                    type: url
+                  linktext4:
+                    label: Lien 4 — Texte
+                    type: text
+                    placeholder: Facebook, Instagram, Site...
+                  link5:
+                    label: Lien 5 — Url
+                    type: url
+                  linktext5:
+                    label: Lien 5 — Texte
+                    type: text
+                    placeholder: Facebook, Instagram, Site...
+                  link6:
+                    label: Lien 6 — Url
+                    type: url
+                  linktext6:
+                    label: Lien 6 — Texte
+                    type: text
+                    placeholder: Facebook, Instagram, Site...
+          media:
+            label: Media
+            type: group
+            fieldsets:
+              - image
+              - video
+              slideshow:
+                name: Slideshow 
+                icon: file-image
+                fields:
+                  slideshowsimages:
+                    label: Images
+                    type: files 
+                    query: page.images 
+                    max: 10
+                    min: 2
+                    help: |
+                      ATTENTION : PRÉVOIR DES IMAGES AU MÊME FORMAT
+          code:
+            label: Code
+            type: group
+            fieldsets:
+              - code

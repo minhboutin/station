@@ -1,0 +1,19 @@
+title: Rendez-vous
+
+icon: 📅
+
+options:
+  url: false
+  status: false
+  delete: false
+  duplicate: false
+  changeStatus: false
+  changePosition: false
+  changeTitle: true
+
+sections:
+  pages:
+    type: pages
+    layout: list
+    templates: 
+      - stationgdmpage

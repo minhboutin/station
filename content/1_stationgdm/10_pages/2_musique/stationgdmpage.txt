@@ -1,0 +1,39 @@
+Title: Musique & spectacles : Musique
+
+----
+
+Maintitle: Musique
+
+----
+
+Archived: false
+
+----
+
+Startdate: 
+
+----
+
+Enddate: 
+
+----
+
+Mainlabels: programme 1
+
+----
+
+Maintags: 
+
+----
+
+Description: Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+
+----
+
+Posterimage:
+
+- trame-01.png
+
+----
+
+Postervideo: 

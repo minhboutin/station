@@ -1,0 +1,9 @@
+Title: Partenaires
+
+----
+
+Blockimage: 
+
+----
+
+Contents: [{"content":{"level":"h2","text":"Partenaires"},"id":"fa9560de-270b-4c38-bd40-f0ec6eea7f56","isHidden":false,"type":"heading"},{"content":{"text":"<p>La Station \u2014 Gare des Mines est pr\u00e9sent\u00e9e par le Collectif MU avec le soutien de la Ville de Paris, de la R\u00e9gion \u00cele-de-France, du d\u00e9partement de la Seine-Saint-Denis, du Centre National de la Musique, du minist\u00e8re de la Culture, de la Direction R\u00e9gionale des Affaires Culturelles - \u00cele-de-France, du minist\u00e8re de la coh\u00e9sion des territoires, de la Mairie du 18e, de P&amp;MA, de la Sacem, de Service Civique et de Paris Habitat.<\/p><p>Le Collectif MU est membre du R\u00e9seau MAP, de France Tiers-Lieux et du Syndicat des Musiques Actuelles.<\/p>"},"id":"442cb947-d89a-47b8-85e1-44ac20853448","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["banniere-logo-partenaires-juin2021-1.png"],"src":"","alt":"Partenaires Station Gare des Mines","caption":"","link":"","ratio":"","crop":"false"},"id":"85c43a05-7514-4da8-b8de-90110f8bbed9","isHidden":false,"type":"image"}]

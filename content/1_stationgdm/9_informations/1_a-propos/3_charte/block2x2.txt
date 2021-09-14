@@ -1,0 +1,9 @@
+Title: Charte
+
+----
+
+Blockimage: 
+
+----
+
+Contents: [{"content":{"level":"h2","text":"Notre charte"},"id":"031eff02-bf2f-4c9b-ad45-81bc9b281d47","isHidden":false,"type":"heading"},{"content":{"text":"<p>Lieu associatif et \u00e0 but non lucratif, dont les revenus permettent de payer uniquement les \u00e9quipes, les artistes et ses am\u00e9nagements, La Station \u2013 Gare des Mines tient \u00e0 \u00eatre un espace accueillant, non discriminatoire et ouvert \u00e0 tou.te.s.<\/p><p>Le principal objectif de la Station est de promouvoir les sc\u00e8nes artistiques \u00e9mergentes, dans un esprit de bienveillance, d\u2019ouverture et de curiosit\u00e9.<\/p><p>Le respect de tous les publics et des artistes invit\u00e9.e.s est primordial car nous souhaitons chaque jour rendre ce lieu plus chaleureux et plus safe pour toutes et tous.<\/p><p>Les comportements ou propos discriminatoires, violents, racistes, sexistes, homophobes ou LGBTQI-phobes au sein de son enceinte ou \u00e0 l\u2019entr\u00e9e sont donc passibles d\u2019exclusion. L\u2019\u00e9quipe se r\u00e9serve \u00e9galement le droit d\u2019admission.<\/p><p>Pour toute question ou signalement d\u2019un comportement inad\u00e9quat, n\u2019h\u00e9site pas \u00e0 prendre contact avec la personne en charge de la billetterie.<\/p>"},"id":"e4c3e1b9-1676-4e9d-9a48-e392146f454a","isHidden":false,"type":"text"}]

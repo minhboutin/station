@@ -1,0 +1,39 @@
+Title: Le Beau Festival
+
+----
+
+Maintitle: Le Beau Festival
+
+----
+
+Archived: false
+
+----
+
+Startdate: 2021-07-17
+
+----
+
+Enddate: 
+
+----
+
+Mainlabels: 
+
+----
+
+Maintags: concert
+
+----
+
+Description: 
+
+----
+
+Posterimage:
+
+- le-beau-festival-banniere.jpeg
+
+----
+
+Postervideo: 

@@ -1,0 +1,18 @@
+title: Station — Gare des mines
+
+num: 1
+options:
+  url: false
+  status: false
+  delete: false
+  duplicate: false
+  changeStatus: false
+  changePosition: false
+  changeTitle: false
+
+sections:
+  pages:
+    headline: Pages
+    type: pages
+    sortBy: num
+    status: listed

@@ -1,0 +1,251 @@
+Title: Home
+
+----
+
+Focusselection:
+
+- >
+  stationgdm/temps-forts/station-electronique
+- >
+  stationgdm/temps-forts/garage-mu-festival
+
+----
+
+Focustags: true
+
+----
+
+Focusdescription: true
+
+----
+
+Actuactived: false
+
+----
+
+Actutitre: Actualités
+
+----
+
+Autoselection: none
+
+----
+
+Manualselection:
+
+- stationgdm/rendez-vous/chosen-family
+- stationgdm/rendez-vous/ideal-trouble
+- >
+  stationgdm/rendez-vous/warrior-mort-a-mort
+- >
+  stationgdm/rendez-vous/boukan-records-friends
+
+----
+
+Discoveractivated: false
+
+----
+
+Discovertitle: À découvrir
+
+----
+
+Discoverblock1actived: false
+
+----
+
+Discoverblock1title: Chantier permanent
+
+----
+
+Discoverblock1image:
+
+- chantier-permanent-v0.jpeg
+
+----
+
+Discoverblock1text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+----
+
+Discoverblock1link: 
+
+----
+
+Discoverblock1linktarget: false
+
+----
+
+Discoverblock2actived: false
+
+----
+
+Discoverblock2title: L'aire de repos
+
+----
+
+Discoverblock2image: 
+
+----
+
+Discoverblock2text: Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa.
+
+----
+
+Discoverblock2link: 
+
+----
+
+Discoverblock2linktarget: false
+
+----
+
+Discoverblock3actived: false
+
+----
+
+Discoverblock3title: La Cantine des Mines
+
+----
+
+Discoverblock3image:
+
+- food.jpg
+
+----
+
+Discoverblock3text:
+
+Consultez le menu de la semaine sur le compte instagram de la Cantine des Mines **@cantinedesmines**.
+Ouverture du mardi au dimanche de 12h à 23h.
+
+----
+
+Discoverblock3link: https://www.instagram.com/stationgaredesmines/
+
+----
+
+Discoverblock3linktarget: true
+
+----
+
+Discoverblock4actived: false
+
+----
+
+Discoverblock4title: Station Station
+
+----
+
+Discoverblock4image:
+
+- stationstatoin-banniere.png
+
+----
+
+Discoverblock4text: Station Station est le média de La Station — Gare des Mines, diffusant une programmation riche de mixtapes musicales et littéraires, de chroniques, d’interviews et de créations sonores.
+
+----
+
+Discoverblock4link: https://stationstation.fr/
+
+----
+
+Discoverblock4linktarget: true
+
+----
+
+Discoverblock5actived: false
+
+----
+
+Discoverblock5title: Résidences
+
+----
+
+Discoverblock5image: 
+
+----
+
+Discoverblock5text: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+----
+
+Discoverblock5link: http://exemple.com
+
+----
+
+Discoverblock5linktarget: false
+
+----
+
+Discoverblock6actived: false
+
+----
+
+Discoverblock6title: 
+
+----
+
+Discoverblock6image:
+
+- trame-01.png
+
+----
+
+Discoverblock6text: 
+
+----
+
+Discoverblock6link: 
+
+----
+
+Discoverblock6linktarget: false
+
+----
+
+Journalactived: false
+
+----
+
+Journaltitle: Journal
+
+----
+
+Journalauthor: true
+
+----
+
+Journaltags: true
+
+----
+
+Manualsection: - stationgdm/rendez-vous/chosen-family
+
+----
+
+Actuselection: - stationgdm/rendez-vous/chosen-family
+
+----
+
+Toggleweek: week
+
+----
+
+Focusleftselection:
+
+- >
+  stationgdm/rendez-vous/station-electronique
+
+----
+
+Focusrightselection: - stationgdm/tempsforts/garage-mu-festival
+
+----
+
+Toggle: false
+
+----
+
+Startdate: 2021-08-28 00:00:00

@@ -1,0 +1,11 @@
+Title: La Station — Gare des Mines
+
+----
+
+Blockimage:
+
+- station-gare-des-mines-1440x946.jpeg
+
+----
+
+Contents: [{"content":{"level":"h2","text":"<strong>La Station \u2014 Gare des Mines&nbsp;<\/strong>"},"id":"8f2cce5d-3a0a-4802-9115-d505ea5b5181","isHidden":false,"type":"heading"},{"content":{"text":"<p>Au carrefour de Paris, Saint-Denis et Aubervilliers, La Station \u2014 Gare des Mines est un laboratoire convivial et festif consacr\u00e9 aux sc\u00e8nes artistiques \u00e9mergentes, fond\u00e9 sur les vestiges d\u2019une gare \u00e0 charbon d\u00e9saffect\u00e9e.<\/p><p><\/p><p><strong>29, avenue de la porte d\u2019Aubervilliers 75018 Paris<\/strong><\/p><p><strong>Mail : infos@mu.asso.fr<\/strong><\/p><p><strong>Tel. : +33 9 73 26 11 47<\/strong><\/p><p><\/p>"},"id":"83f35be8-190d-432e-a87a-dddd583c4571","isHidden":false,"type":"text"}]

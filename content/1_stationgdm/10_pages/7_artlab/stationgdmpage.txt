@@ -1,0 +1,37 @@
+Title: Arts visuels & sonores : ArtLab
+
+----
+
+Maintitle: ArtLab
+
+----
+
+Archived: false
+
+----
+
+Startdate: 
+
+----
+
+Enddate: 
+
+----
+
+Mainlabels: 
+
+----
+
+Maintags: 
+
+----
+
+Description: Pellentesque sit amet nulla vestibulum, tincidunt dolor a, viverra elit. Duis molestie ligula id tortor maximus congue. Curabitur ut volutpat enim, eu pretium sem.
+
+----
+
+Posterimage: 
+
+----
+
+Postervideo: 

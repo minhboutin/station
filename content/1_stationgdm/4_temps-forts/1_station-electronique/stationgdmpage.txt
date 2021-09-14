@@ -1,0 +1,55 @@
+Title: Station Éléctronique
+
+----
+
+Maintitle: Station Éléctronique
+
+----
+
+Archived: false
+
+----
+
+Startdate: 2021-09-28
+
+----
+
+Enddate: 2021-09-29
+
+----
+
+Mainlabels: art et territoire
+
+----
+
+Maintags: concert
+
+----
+
+Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+----
+
+Posterimage:
+
+- se2021_ban1920-1400x733.jpeg
+
+----
+
+Postervideo: 
+
+----
+
+Mainauteur: 
+
+----
+
+Maindate: 2021-09-28
+
+----
+
+Date: 2021-09-29
+
+----
+
+Mainlabel: 

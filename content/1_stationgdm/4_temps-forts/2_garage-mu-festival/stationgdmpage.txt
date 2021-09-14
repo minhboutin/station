@@ -1,0 +1,39 @@
+Title: Garage Mu Festival
+
+----
+
+Maintitle: Garage Mu Festival
+
+----
+
+Archived: false
+
+----
+
+Startdate: 2021-07-08
+
+----
+
+Enddate: 2021-07-11
+
+----
+
+Mainlabels: 
+
+----
+
+Maintags: concert
+
+----
+
+Description: 
+
+----
+
+Posterimage:
+
+- garage-mu-banniere.jpeg
+
+----
+
+Postervideo: 

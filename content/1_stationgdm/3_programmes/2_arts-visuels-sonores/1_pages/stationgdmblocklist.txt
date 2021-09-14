@@ -1,0 +1,14 @@
+Title: Pages
+
+----
+
+Listtitle: 
+
+----
+
+Listselection:
+
+- stationgdm/pages/art-territoire
+- stationgdm/pages/atelier-charbon
+- stationgdm/pages/artlab
+- stationgdm/pages/productions-mu

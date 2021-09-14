@@ -1,0 +1,22 @@
+title: Block Liste
+
+sections:
+  list:
+    type: fields
+    fields:
+      listtitle:
+        width: 2/3
+        label: Titre de la liste
+        type: text
+      listbreak:
+        type: line
+      listselection: 
+        width: 2/3
+        label: Séléction d'une liste de contenus
+        type: pages
+        layout: list
+        subpages: true
+        query: site.find('stationgdm').children.listed.find('rendez-vous', 'temps-forts', 'pages', 'journal')
+        max: 16
+        help: |
+          Maximum 16 contenus

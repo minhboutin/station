@@ -1,0 +1,27 @@
+title: Billetterie
+
+icon: 💸
+
+options:
+  url: false
+  status: false
+  delete: false
+  duplicate: false
+  changeStatus: false
+  changePosition: false
+  changeTitle: true
+
+sections:
+  contents:
+    type: fields
+    fields:
+      contents:
+        label: Contenus
+        type: blocks
+        width: 2/3
+        fieldsets:
+          code:
+            label: Code
+            type: group
+            fieldsets:
+              - code

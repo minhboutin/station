@@ -1,0 +1,10 @@
+Title: Archives
+
+options:
+  url: false
+  status: false
+  delete: false
+  duplicate: false
+  changeStatus: false
+  changePosition: false
+  changeTitle: true

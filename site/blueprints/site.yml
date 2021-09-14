@@ -1,0 +1,12 @@
+title: Site
+
+options:
+  changeTitle: 
+    admin: false
+    editor: false
+    
+sections: 
+  sites:
+    headline: Sites
+    type: pages
+    status: listed

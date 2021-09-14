@@ -1,0 +1,5 @@
+Title: Billetterie
+
+----
+
+Contents: [{"content":{"code":"<iframe \n        src=\"https:\/\/yurplan.com\/orga\/MU\/18848\/ticketing\/widget?wversion=1\"\n        scrolling=\"auto\" \nheight=\"500px\"\n        frameborder=\"0\"\n        class=\"yurplan-widget\"\n        id=\"yurplan-widget-18848\"\n        data-id=\"18848\"\nstyle=\"margin-bottom: 20px\"\n    >\n<\/iframe>\n<script type=\"text\/javascript\" src=\"https:\/\/assets.yurplan.com\/yurplan-v1\/dist\/widget.js\"><\/script>","language":"text"},"id":"5ef97e3c-f4bd-447c-86e9-eb2fefc5953d","isHidden":false,"type":"code"}]

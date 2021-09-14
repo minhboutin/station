@@ -1,0 +1,43 @@
+Title: Warrior mort à mort
+
+----
+
+Maintitle: Warrior mort à mort
+
+----
+
+Archived: false
+
+----
+
+Startdate: 2021-09-03
+
+----
+
+Enddate: 
+
+----
+
+Mainlabels: 
+
+----
+
+Maintags: concert
+
+----
+
+Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+----
+
+Posterimage:
+
+- warriormortamort-banniere.png
+
+----
+
+Postervideo: 
+
+----
+
+Mainauteur: 

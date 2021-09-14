@@ -1,0 +1,19 @@
+Title: Événement
+
+----
+
+Blockimage:
+
+- chosen-family-cropped-2.png
+
+----
+
+Contents: [{"content":{"level":"h2","text":"GAMUT pr\u00e9sente"},"id":"b1bb8665-3437-4a8e-98c1-5a2d535a3f45","isHidden":false,"type":"heading"},{"content":{"text":"<p><strong>CHOSEN FAMILY<\/strong> avec Franky Gogo \u2022 Le Kaiju \u2022 Nelson Beer \u2022 Mercedeath \u2022 F\/cken Chipotle \u2022 Front de Crypte + Secret Guest<\/p><p>Apr\u00e8s une annulation et derni\u00e8re minute, cette fois sera la bonne !<br>Une nouvelle \u00e9dition de Chosen Family, un come-back qu\u2019on avait presque arr\u00eat\u00e9 d\u2019esp\u00e9rer, un nouveau terrain de jeu de plus de 3000m2, un syst\u00e8me son d&amp;b, une programmation toute queer qui mijote depuis un an et huit mois\u2026 Attention lib\u00e9ration !<\/p><p><strong>16h\u20141h30<\/strong> \/ \u00c9v\u00e9nement en plein air<\/p><p><strong>Sur place : 14\u20ac<br>Pr\u00e9ventes : 11.59\u20ac<br>Early birds : 8\u20ac<\/strong><\/p>"},"id":"120bbf27-2e8b-4ca4-b383-f8960ae41f6a","isHidden":false,"type":"text"},{"content":{"code":"<iframe src=\"https:\/\/yurplan.com\/event\/CHOSEN-FAMILY\/72779\/tickets\/widget?widget=dGlja2V0aW5nV2lkZ2V0WXBfNzA4MjNfNzM0MTM%3D&amp;from=widget_73413&amp;wversion=1&amp;culture=fr\" width=\"100%\" height=\"420px\" scrolling=\"auto\" frameborder=\"0\" class=\"yurplan-iframe-widget\" id=\"yurplanwidget73413\" data-id=\"73413\" yid=\"73413\"><br \/><\/iframe>","language":"text"},"id":"cdc585e9-d6b9-4d1b-bd19-84384964cf9b","isHidden":false,"type":"code"}]
+
+----
+
+Image: - chosen-family.jpeg
+
+----
+
+Text: 

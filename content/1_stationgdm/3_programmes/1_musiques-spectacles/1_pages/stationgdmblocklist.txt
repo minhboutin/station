@@ -1,0 +1,13 @@
+Title: Pages
+
+----
+
+Listtitle: 
+
+----
+
+Listselection:
+
+- stationgdm/pages/musique
+- stationgdm/pages/spectacles-vivants
+- stationgdm/pages/studio-musique

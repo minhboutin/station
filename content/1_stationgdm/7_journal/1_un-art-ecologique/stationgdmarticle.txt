@@ -1,0 +1,55 @@
+Title: Un art écologique ?
+
+----
+
+Maintitle: Un art écologique ?
+
+----
+
+Startdate: 2021-08-30
+
+----
+
+Mainauteur: Minh
+
+----
+
+Mainthemes: thème 1
+
+----
+
+Maintags: tag 1
+
+----
+
+Description: At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.
+
+----
+
+Posterimage:
+
+- unartecologique-0.jpeg
+
+----
+
+Postervideo: 
+
+----
+
+Maintheme: thème 1
+
+----
+
+Date: 2021-08-26
+
+----
+
+Mainlabels: 
+
+----
+
+Enddate: 
+
+----
+
+Mainlabel: 

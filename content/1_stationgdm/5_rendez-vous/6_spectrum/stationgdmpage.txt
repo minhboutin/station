@@ -1,0 +1,39 @@
+Title: Spectrum
+
+----
+
+Maintitle: Spectrum
+
+----
+
+Archived: false
+
+----
+
+Startdate: 2021-08-14
+
+----
+
+Enddate: 2021-08-15
+
+----
+
+Mainlabels: 
+
+----
+
+Maintags: concert
+
+----
+
+Description: 
+
+----
+
+Posterimage:
+
+- spectrum2021.jpeg
+
+----
+
+Postervideo: 

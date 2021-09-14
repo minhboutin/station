@@ -1,0 +1,51 @@
+Title: Ideal Trouble
+
+----
+
+Maintitle: Ideal Trouble
+
+----
+
+Archived: false
+
+----
+
+Startdate: 2021-09-08
+
+----
+
+Enddate: 2021-09-11
+
+----
+
+Mainlabels: 
+
+----
+
+Maintags: clubbing
+
+----
+
+Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+----
+
+Posterimage:
+
+- idealtrouble_ban-1400x733.jpeg
+
+----
+
+Postervideo: 
+
+----
+
+Mainauteur: 
+
+----
+
+Maindate: 8–10–11.09.2021
+
+----
+
+Mainlabel: Label

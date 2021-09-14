@@ -1,0 +1,39 @@
+Title: Newsletter
+
+----
+
+Maintitle: Newsletter
+
+----
+
+Archived: false
+
+----
+
+Startdate: 
+
+----
+
+Enddate: 
+
+----
+
+Mainlabels: 
+
+----
+
+Maintags: 
+
+----
+
+Description: 
+
+----
+
+Posterimage:
+
+- trame-0.png
+
+----
+
+Postervideo: 

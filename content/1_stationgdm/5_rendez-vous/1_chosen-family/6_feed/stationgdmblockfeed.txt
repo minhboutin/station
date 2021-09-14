@@ -1,0 +1,69 @@
+Title: Feed
+
+----
+
+Feedtitle: À voir aussi (Feed)
+
+----
+
+Feeddate: true
+
+----
+
+Feedlabels: false
+
+----
+
+Feedtags: false
+
+----
+
+Feedautoselection: none
+
+----
+
+Feedlabelfilter: 
+
+----
+
+Feedtagfilter: 
+
+----
+
+Feedmanualselection:
+
+- stationgdm/rendez-vous/ideal-trouble
+- >
+  stationgdm/rendez-vous/warrior-mort-a-mort
+- stationgdm/rendez-vous/chosen-family
+
+----
+
+Feeddescription: 
+
+----
+
+Feedautofilter: 
+
+----
+
+Feedautofiltertags:
+
+- 
+  text: Label
+  value: Label
+- 
+  text: Test
+  value: Test
+
+----
+
+Feedautofilterlabels: 
+
+----
+
+Feedselection: 
+
+----
+
+Feedfilterselection: stationgdm/rendez-vous
